@@ -1,3 +1,3 @@
-# 2DGameEngine
+# Imagination Game
 
 Work in progress
